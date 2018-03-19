@@ -1,4 +1,4 @@
-program TwDmArray;
+program TwpDimensionalArray;
 
 var
   A: Array[1..3, 1..3] of Integer;
