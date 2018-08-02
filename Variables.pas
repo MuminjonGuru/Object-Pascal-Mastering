@@ -1,9 +1,9 @@
 program Variables;
 
 var
-  //X, Y: Integer;
+ // X, Y: Integer;
 
-  //C: Char;
+  C: Char;
 
   //X: Single;
 
@@ -12,18 +12,18 @@ var
 
 begin
 
-  //X := 5;
-  //WriteLn(X * 2);
+  X := 5;
+  WriteLn(X * 2);
 
-   //X := 10;
-   //Y := 5;
-   //WriteLn(X + Y);
+   X := 10;
+   Y := 5;
+   WriteLn(X + Y);
 
-  //C := '@';
-  //WriteLn('Mening ismimning bosh harfi: ', C);
+  C := '@';
+  WriteLn('Mening ismimning bosh harfi: ', C);
 
-  //X := 1.5;
-  //WriteLn(X:1:3);
+  X := 1.5;
+  WriteLn(X:1:3);
 
 
   Write('X = ');  ReadLn(X);
