@@ -1,3 +1,10 @@
+{
+  Mission: 
+    shunday son topish kerakki 2 ga bolganda 1 qoldiq qolsin
+    3 ga bolganda 2 qoldiq qolsin 
+    ...... 10 ga bolganda 9 qoldiq qolsin
+}
+
 Program LoopingTaskWithRepeatUntil;
 Begin
   var N: Integer = 0;
