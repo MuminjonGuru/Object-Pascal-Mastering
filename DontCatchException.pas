@@ -10,7 +10,7 @@ uses
 begin
   try
     var Num1 : Real := 2.76;
-    var Num2 : Real := -0;
+    var Num2 : Real := 0;
 
     WriteLn(Format('%d / %d = %d;', [Num1, Num2, Num1 / Num2]));
 
