@@ -15,3 +15,4 @@ My Android app which is built with Delphi FireMonkey
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.delphiapplications.delphiexamples)
 
 Website: [Delphi.Uz](https://delphi.uz)
+         [AUTDevs.Rocks](https://autdevs.rocks)
