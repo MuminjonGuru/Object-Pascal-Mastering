@@ -1,5 +1,6 @@
 program test(input,output);
-(* Two compiler errors *)
+// Two compiler errors 
+
 var 
   Value: Real;
  
