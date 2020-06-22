@@ -1,13 +1,21 @@
-program test(input,output);
-(* One compiler error *)
-var valuel,value2,result:integer;
-function add values(a:integer) :integer;
-begin -
-add_values:=a+b;
-end;
+program test;
+
+// one compiler error
+
+var
+  Value1, Value2, Result: Integer;
+  
+function add_values(A: Integer): Integer;
 begin
+  add_values := A + B;
+end;
+
+begin
+  WriteLn('Enter 2 values: ');
+  ReadLn(Value1, Value2);
+  
+  Result := add_values(Value1, Value2);
+  WriteLn('Added the result is ', Result);
+
+  ReadLn;
 end.
-writeln('Enter two values>> ');
-readln(valuel,value2);
-result:=add values(valuel,value2);
-writeln('Added the result is ',result);
