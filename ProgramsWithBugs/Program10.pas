@@ -1,6 +1,7 @@
 program test(input,output);
 
-(* Two compiler errors *)
+// Two compiler errors 
+
 var 
   i,sqr_value,cube_value: Real;
   
