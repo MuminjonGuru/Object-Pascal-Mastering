@@ -38,8 +38,10 @@ end;
 
 begin
   Write('N = ');  ReadLn(N);
+  
   WriteLn('Array A');
   Input(N, A);
+  
   WriteLn('Array B');
   Input(N, B);
 
@@ -56,5 +58,5 @@ begin
   WriteLn('Array C');
   Output(N, C);
 
-  ReadLn;
+  ReadLn;  // pause
 end.
