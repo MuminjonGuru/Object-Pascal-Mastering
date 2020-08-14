@@ -4,7 +4,7 @@ I have been implementing algorithms in Object Pascal since my Delphi.Uz website 
 
 > **To be continued**
 
-I'm on social networks: **Follow me buddy!**
+I'm on social networks: **Follow me, buddy!**
 - 📱[FaceBook](https://www.facebook.com/wwwdelphiuz/)
 - 🎟[Twitter](https://twitter.com/MuminjonGuru)
 - 🎫[Medium](https://medium.com/@muminjonguru)
