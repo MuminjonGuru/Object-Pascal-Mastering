@@ -1,7 +1,7 @@
 function TheFirstWord(Text: String): String;
 begin
   ReplaceStr(Text, '-', ' ');
-  ReplaceStr(Text, '-', ' ');
+  ReplaceStr(Text, '_', ' ');
 
   if Pos(' ', Text) = 0 then
     Result := Text
