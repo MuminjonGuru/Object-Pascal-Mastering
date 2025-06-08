@@ -21,3 +21,18 @@ begin
   Writeln('P^ = ', P^); // Should print: P^ = 42 (same as X)
 end.
 
+
+
+// Demo: 2
+
+program AdvancedPointerDemo;
+
+var
+  X: ^Integer;  // Pointer to an Integer
+
+begin
+  New(X);         // Dynamically allocate memory for an Integer
+  X^ := 123;      // Assign value
+  Writeln('X^ = ', X^);  // Should print: X^ = 123
+  Dispose(X);     // Free the allocated memory
+end.
