@@ -1,3 +1,14 @@
+(* 
+
+Below is a full Delphi (Object Pascal) console application demonstrating the use of your PhoneEntry record and FPhoneList typed file. This example covers:
+- Defining types
+- Adding new entries
+- Listing all entries
+- Searching by last name
+- Simple menu 
+
+*)
+
 program PhoneBookApp;
 
 {$APPTYPE CONSOLE}
